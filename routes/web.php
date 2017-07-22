@@ -11,6 +11,5 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'SiteController@index')->name('index');
+Route::post('/send-email', 'SiteController@sendEmail')->name('send_email');
