@@ -2170,6 +2170,19 @@ function appendErrors(res) {
 }
 
 $(document).ready(function () {
+
+    // Smoothscroll to anchor
+    $(document).on('click', '[data-scrollto]', function () {
+        var html_body = $('html, body');
+
+        var id = '#' + $(this).data('scrollto');
+        if ($(id).length > 0) {
+            var offset = 0;
+            html_body.animate({scrollTop: $(id).offset().top - offset}, 1000);
+        }
+        return false;
+    });
+
     $('.phone').mask('(00) 00000-0000');
 
     const ERROR_AJAX = '<div class="alert alert-error" style="margin-top: 10px;">Ocorreu um erro interno, por favor entre em contato com o administrado do site.</div>';
