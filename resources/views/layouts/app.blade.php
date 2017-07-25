@@ -19,7 +19,7 @@
     <meta name="og:site_name" content="FichaRápidaBR"/>
 
     <!-- Styles -->
-    <link href="{{ elixir('/css/vendor.css') }}" rel="stylesheet">
+    <link href="{{ asset('/css/vendor.css') }}" rel="stylesheet">
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="{{asset('img/fav.png')}}">

@@ -11,20 +11,20 @@ let mix = require('laravel-mix');
  |
  */
 
-mix.copyDirectory('resources/assets/img', 'public/img');
-mix.copyDirectory('resources/assets/fonts', 'public/fonts');
+// mix.copyDirectory('resources/assets/img', 'public/img');
+// mix.copyDirectory('resources/assets/fonts', 'public/fonts');
 
-mix.js([
-    'resources/assets/js/jquery/jquery-2.2.4.min.js',
-    'resources/assets/js/bootstrap.min.js',
-    'resources/assets/js/jquery-ui.min.js',
-    'resources/assets/js/plugins.js',
-    'resources/assets/js/jquery-jarallax.min.js',
-    'resources/assets/js/map-active.js',
-    'resources/assets/js/active.js',
-    'resources/assets/js/sweetalert.min.js',
-    'resources/assets/js/app.js'
-], 'public/js/app.js');
+// mix.js([
+//     'resources/assets/js/jquery/jquery-2.2.4.min.js',
+//     'resources/assets/js/bootstrap.min.js',
+//     'resources/assets/js/jquery-ui.min.js',
+//     'resources/assets/js/plugins.js',
+//     'resources/assets/js/jquery-jarallax.min.js',
+//     'resources/assets/js/map-active.js',
+//     'resources/assets/js/active.js',
+//     'resources/assets/js/sweetalert.min.js',
+//     'resources/assets/js/app.js'
+// ], 'public/js/app.js');
 
 mix.styles([
     'resources/assets/css/core-style.css',
@@ -33,6 +33,6 @@ mix.styles([
     'resources/assets/css/sweetalert.css'
 ], 'public/css/vendor.css');
 
-if (mix.inProduction()) {
-    mix.version();
-}
+// if (mix.inProduction()) {
+//     mix.version();
+// }
