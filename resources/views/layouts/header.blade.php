@@ -40,6 +40,7 @@
         <li><a href="#sobre-nos">Sobre Nós</a></li>
         <li><a href="#servicos">Serviços</a></li>
         <li><a href="#precos">Preços</a></li>
+        <li><a href="#clientes">Clientes</a></li>
         <li><a href="#contato">Contato</a></li>
     </ul>
     <!-- Sidebar Contact Area Start -->
