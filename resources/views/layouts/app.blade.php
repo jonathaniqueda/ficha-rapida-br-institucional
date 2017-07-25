@@ -19,7 +19,7 @@
     <meta name="og:site_name" content="FichaRápidaBR"/>
 
     <!-- Styles -->
-    <link href="{{ mix('/css/vendor.css') }}" rel="stylesheet">
+    <link href="{{ elixir('/css/vendor.css') }}" rel="stylesheet">
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="{{asset('img/fav.png')}}">
@@ -62,6 +62,6 @@
 @include('layouts.footer')
 
 <script src="https://maps.googleapis.com/maps/api/js?key={{getenv('GOOGLE_API_KEY')}}" type="text/javascript"></script>
-<script type="text/javascript" src="{{ mix('/js/app.js') }}"></script>
+<script type="text/javascript" src="{{ elixir('/js/app.js') }}"></script>
 </body>
 </html>
