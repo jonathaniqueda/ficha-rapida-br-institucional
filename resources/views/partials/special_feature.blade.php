@@ -5,9 +5,12 @@
             <div class="col-xs-12">
                 <!-- Section Heading Start -->
                 <div class="section_heading">
-                    <h2>Top Features</h2>
-                    <p>Creative, smart &amp; responsive. Just edit text &amp; images. Put your business into next level
-                        with it.</p>
+                    <h2>Certificado de excelência</h2>
+                    <p>
+                        Nós somos consultores especializados em <strong>pesquisas restritivas</strong>, <strong>serviços
+                            de certidões</strong> e <strong>assessoramento de corretores / administradores de
+                            imóveis</strong>.
+                    </p>
                 </div>
             </div>
         </div>
@@ -18,13 +21,17 @@
             <div class="col-xs-12 col-sm-4">
                 <div class="single_feature item">
                     <div class="feature_img">
-                        <img src="img/core-img/user.png" alt="">
+                        <img src="{{asset('img/icon-1.png')}}" alt="">
                     </div>
                     <!-- Single Feature Image Area End -->
                     <div class="feature_text">
-                        <h4>User Friendly</h4>
-                        <p>Simple, smart &amp; responsive. No coding knowledge required, Just edit text &amp;
-                            images.</p>
+                        <h4>Agilidade na Entrega</h4>
+                        <p>
+                            Receba toda a sua pesquisa em poucas horas via e-mail e em até 1 dia útil fisicamente*.
+                        </p>
+                        <small style="font-size: 12px; margin-top: 10px;">* Prazo para o Rio de Janeiro Capital e Grande
+                            Rio.
+                        </small>
                     </div>
                     <!-- Single Feature Text Area End -->
                 </div>
@@ -34,13 +41,14 @@
             <div class="col-xs-12 col-sm-4">
                 <div class="single_feature item">
                     <div class="feature_img">
-                        <img src="img/core-img/web.png" alt="">
+                        <img src="{{asset('img/icon-2.png')}}" alt="Atedimento personalizado">
                     </div>
                     <!-- Single Feature Image Area End -->
                     <div class="feature_text">
-                        <h4>Free Updates</h4>
-                        <p>Simple, smart &amp; responsive. No coding knowledge required, Just edit text &amp;
-                            images.</p>
+                        <h4>Atedimento personalizado</h4>
+                        <p>
+                            Atendemos via telefone, whatsapp, e-mail e fisicamente, de acordo com sua agenda :)
+                        </p>
                     </div>
                     <!-- Single Feature Text Area End -->
                 </div>
@@ -50,13 +58,15 @@
             <div class="col-xs-12 col-sm-4">
                 <div class="single_feature item">
                     <div class="feature_img">
-                        <img src="img/core-img/programming.png" alt="">
+                        <img src="{{asset('img/icon-3.png')}}" alt="Anti-falsificações">
                     </div>
                     <!-- Single Feature Image Area End -->
                     <div class="feature_text">
-                        <h4>Elegant Designs</h4>
-                        <p>Simple, smart &amp; responsive. No coding knowledge required, Just edit text &amp;
-                            images.</p>
+                        <h4>Anti-falsificações</h4>
+                        <p>
+                            Entregas feitas em folha timbrada, carimbada e assinada pelos nossos consultores. Evite
+                            falsificações!
+                        </p>
                     </div>
                     <!-- Single Feature Text Area End -->
                 </div>

@@ -4,16 +4,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>FichaRápidaBR - Sua Segurança na Hora de ALUGAR, CONTRATAR ou VENDER!</title>
+    <title>Ficha Rápida BR - Sua Segurança na Hora de ALUGAR, CONTRATAR ou VENDER!</title>
 
     <meta name="author" content="jonathan iqueda, jonathaniqueda@me.com">
 
     <meta name="description"
-          content="A FichaRápidaBR é uma Assessoria para Administradores de Imóveis e Corretores Imobiliários focada em entregar soluções em um prazo diferenciado do mercado com análises em menos de 24 horas!">
+          content="A Ficha Rápida BR é uma Assessoria para Administradores de Imóveis e Corretores Imobiliários focada em entregar soluções em um prazo diferenciado do mercado com análises em menos de 24 horas!">
 
-    <meta name="og:title" content="FichaRápidaBR - Sua Segurança na Hora de ALUGAR, CONTRATAR ou VENDER!">
+    <meta name="og:title" content="Ficha Rápida BR - Sua Segurança na Hora de ALUGAR, CONTRATAR ou VENDER!">
     <meta name="og:description"
-          content="A FichaRápidaBR é uma Assessoria para Administradores de Imóveis e Corretores Imobiliários focada em entregar soluções em um prazo diferenciado do mercado com análises em menos de 24 horas!">
+          content="A Ficha Rápida BR é uma Assessoria para Administradores de Imóveis e Corretores Imobiliários focada em entregar soluções em um prazo diferenciado do mercado com análises em menos de 24 horas!">
     <meta name="og:image" content="{{asset('img/seuguru-banner.jpg')}}">
     <meta name="og:url" content="https://ficharapidabr.com.br"/>
     <meta name="og:site_name" content="FichaRápidaBR"/>
