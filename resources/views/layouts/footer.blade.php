@@ -13,8 +13,8 @@
             <div class="row">
                 <div class="col-xs-12">
                     <div class="footer_bottom">
-                        <p>Made with <i class="fa fa-heart"></i> by <a
-                                    href="https://themeforest.net/user/designing-world/portfolio?ref=designing-world">DesigningWorld</a>
+                        <p>Feito com <i class="fa fa-heart"></i> por
+                            <a href="https://seugu.ru/" target="_blank">seuguru.digital</a>
                         </p>
                     </div>
                     <!-- Bottom Footer Copywrite Text Area End -->

@@ -39,7 +39,6 @@
         <li class="current_page_item"><a href="#inicio">Início</a></li>
         <li><a href="#sobre-nos">Sobre Nós</a></li>
         <li><a href="#servicos">Serviços</a></li>
-        <li><a href="#equipe">Equipe</a></li>
         <li><a href="#precos">Preços</a></li>
         <li><a href="#contato">Contato</a></li>
     </ul>

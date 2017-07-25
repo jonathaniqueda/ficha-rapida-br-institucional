@@ -5,9 +5,10 @@
             <div class="col-xs-12">
                 <!-- Section Heading Start -->
                 <div class="section_heading">
-                    <h2>Meet the Team</h2>
-                    <p>Creative, smart &amp; responsive. Just edit text &amp; images. Put your business into next level
-                        with it.</p>
+                    <h2>Nosso time</h2>
+                    <p>
+                        Conheça nossos consultores.
+                    </p>
                 </div>
             </div>
         </div>

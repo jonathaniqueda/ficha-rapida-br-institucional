@@ -5,9 +5,10 @@
             <div class="col-xs-12">
                 <!-- Section Heading Start -->
                 <div class="section_heading">
-                    <h2>What we Do</h2>
-                    <p>Creative, smart &amp; responsive. Just edit text &amp; images. Put your business into next level
-                        with it.</p>
+                    <h2>Nossos Serviços</h2>
+                    <p>
+                        Conheça tudo que podemos oferecer para você.
+                    </p>
                 </div>
             </div>
         </div>
@@ -19,19 +20,39 @@
                 <div class="single_service item wow fadeInUp">
                     <!-- Single Service image -->
                     <div class="single_service_img">
-                        <img src="img/bg-img/service-1.jpg" alt="">
+                        <img src="{{asset('img/servico1.jpg')}}" alt="Pesquisa Restritiva Completa">
                         <!-- Single Service title -->
                         <div class="single_service_title">
-                            <h4>Web Design</h4>
+                            <h4>Pesquisa Completa</h4>
                         </div>
                     </div>
                     <!-- Single Service content -->
                     <div class="single_service_content">
-                        <p>Creative, smart &amp; responsive. No coding knowledge required, Just edit text &amp; images.
-                            Put your business into next level with it.</p>
-                    </div>
-                    <div class="learn_more">
-                        <a href="#">Read More <i class="fa fa-angle-right"></i></a>
+                        <ul class="list-group">
+                            <li class="list-group-item">Pesquisa creditícia: cheques sem fundos, sustados, extraviados
+                                ou roubados;
+                            </li>
+                            <li class="list-group-item">Negativações no comércio lojista (SPC - Serviço de Proteção ao
+                                Crédito);
+                            </li>
+                            <li class="list-group-item">Tribunais de Justiça, pequenas causas, ações de despejos,busca e
+                                apreensão;
+                            </li>
+                            <li class="list-group-item">Receita Federal;</li>
+                            <li class="list-group-item">Justiça Federal;</li>
+                            <li class="list-group-item">Antecedentes criminais (online);</li>
+                            <li class="list-group-item">Pesquisa ao arquivo de fiadores profissionais;</li>
+                            <li class="list-group-item">Pesquisa ao arquivo de locatários profissionais;</li>
+                            <li class="list-group-item">Confirmação de atividade profissional;</li>
+                            <li class="list-group-item">Análise antifraude de documentos (RGI, renda, CPF, RG, e
+                                residência);
+                            </li>
+                            <li class="list-group-item">Análise de crédito e compatibilidade financeira com o valor do
+                                aluguel;
+                            </li>
+                            <li class="list-group-item">Pesquisa de pagamento de aluguéis anteriores;</li>
+                            <li class="list-group-item">Confirmação de referências pessoais e comerciais.</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -41,19 +62,29 @@
                 <div class="single_service item wow fadeInUp">
                     <!-- Single Service image -->
                     <div class="single_service_img">
-                        <img src="img/bg-img/service-2.jpg" alt="">
+                        <img src="{{asset('img/servico2.jpg')}}" alt="Pesquisa Restritiva">
                         <!-- Single Service title -->
                         <div class="single_service_title">
-                            <h4>Web Development</h4>
+                            <h4>Pesquisa Restritiva</h4>
                         </div>
                     </div>
                     <!-- Single Service content -->
                     <div class="single_service_content">
-                        <p>Creative, smart &amp; responsive. No coding knowledge required, Just edit text &amp; images.
-                            Put your business into next level with it.</p>
-                    </div>
-                    <div class="learn_more">
-                        <a href="#">Read More <i class="fa fa-angle-right"></i></a>
+                        <ul class="list-group">
+                            <li class="list-group-item">Pesquisa creditícia: cheques sem fundos, sustados, extraviados
+                                ou roubados;
+                            </li>
+                            <li class="list-group-item">Negativações no comércio lojista (SPC - Serviço de Proteção ao
+                                Crédito);
+                            </li>
+                            <li class="list-group-item">Tribunais de Justiça, pequenas causas, ações de despejos,busca e
+                                apreensão;
+                            </li>
+                            <li class="list-group-item">Receita Federal;</li>
+                            <li class="list-group-item">Antecedentes criminais (online);</li>
+                            <li class="list-group-item">Pesquisa ao arquivo de fiadores profissionais;</li>
+                            <li class="list-group-item">Pesquisa ao arquivo de locatários profissionais.</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -63,19 +94,19 @@
                 <div class="single_service item wow fadeInUp">
                     <!-- Single Service image -->
                     <div class="single_service_img">
-                        <img src="img/bg-img/service-3.jpg" alt="">
+                        <img src="{{asset('img/servico3.jpg')}}" alt="Serviços de Certidões">
                         <!-- Single Service title -->
                         <div class="single_service_title">
-                            <h4>Graphic Design</h4>
+                            <h4>Serviços de Certidões <br/>(Nível Nacional)</h4>
                         </div>
                     </div>
                     <!-- Single Service content -->
                     <div class="single_service_content">
-                        <p>Creative, smart &amp; responsive. No coding knowledge required, Just edit text &amp; images.
-                            Put your business into next level with it.</p>
-                    </div>
-                    <div class="learn_more">
-                        <a href="#">Read More <i class="fa fa-angle-right"></i></a>
+                        <ul class="list-group">
+                            <li class="list-group-item">Compra e Vendas de Imóveis;</li>
+                            <li class="list-group-item">Ônus reais;</li>
+                            <li class="list-group-item">2ª Via de Nascimento e Casamento Em Todo Brasil;</li>
+                        </ul>
                     </div>
                 </div>
             </div>

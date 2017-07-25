@@ -38,6 +38,7 @@ function appendErrors(res) {
 }
 
 $(document).ready(function () {
+    $('[data-toggle="tooltip"]').tooltip();
 
     // Smoothscroll to anchor
     $(document).on('click', '[data-scrollto]', function () {

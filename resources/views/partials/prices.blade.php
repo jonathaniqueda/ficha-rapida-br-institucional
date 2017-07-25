@@ -1,13 +1,11 @@
 <!-- >>>>>>>>>>>>>>>> Price and Plans Area Start <<<<<<<<<<<<<<<< -->
-<div class="price_plan_area section_padding_100_70" id="precos">
+<div class="price_plan_area bg-gray section_padding_100_70" id="precos">
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
                 <!-- Section Heading Start -->
                 <div class="section_heading">
-                    <h2>Price Plan</h2>
-                    <p>Creative, smart &amp; responsive. Just edit text &amp; images. Put your business into next level
-                        with it.</p>
+                    <h2>Preços</h2>
                 </div>
             </div>
         </div>
@@ -17,13 +15,13 @@
             <div class="col-xs-12 col-sm-4">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
-                        <h2>$9.99 <span>Per Month</span></h2>
+                        <h2>R$ 40,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
-                        <p>Bandwidth: 100GB <br> Online Space: 500MB <br> Full Support: No <br> No Hidden Fees</p>
+                        <p>Pesquisa Restritiva Simples</p>
                     </div>
                     <div class="buy_now">
-                        <a href="#" class="btn royal-btn">Get Started</a>
+                        <a data-scrollto="contato" class="btn royal-btn">Entrar em Contato</a>
                     </div>
                 </div>
             </div>
@@ -32,13 +30,13 @@
             <div class="col-xs-12 col-sm-4">
                 <div class="single_price_plan active wow fadeInUp">
                     <div class="price">
-                        <h2>$17.39 <span>Per Month</span></h2>
+                        <h2>R$ 55,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
-                        <p>Bandwidth: 100GB <br> Online Space: 500MB <br> Full Support: No <br> No Hidden Fees</p>
+                        <p>Pesquisa Restritiva Completa</p>
                     </div>
                     <div class="buy_now">
-                        <a href="#" class="btn royal-btn">Purchase Now</a>
+                        <a data-scrollto="contato" class="btn royal-btn">Entrar em Contato</a>
                     </div>
                 </div>
             </div>
@@ -47,13 +45,13 @@
             <div class="col-xs-12 col-sm-4">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
-                        <h2>$99.12 <span>Per Year</span></h2>
+                        <h2>À consultar <span>Para serviço de certidões</span></h2>
                     </div>
                     <div class="description">
-                        <p>Bandwidth: 100GB <br> Online Space: 500MB <br> Full Support: No <br> No Hidden Fees</p>
+                        <p>Serviço de certidões</p>
                     </div>
                     <div class="buy_now">
-                        <a href="#" class="btn royal-btn">Purchase Now</a>
+                        <a data-scrollto="contato" class="btn royal-btn">Entrar em Contato</a>
                     </div>
                 </div>
             </div>

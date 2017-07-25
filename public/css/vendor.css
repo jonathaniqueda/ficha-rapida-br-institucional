@@ -2927,6 +2927,24 @@ body.menu-open {
 .logo-custom {
     width: 120px;
 }
+
+.small-custom {
+    font-size: 12px;
+    margin-top: 10px;
+    color: #fff;
+}
+
+.cta-weigth {
+    font-weight: 400;
+}
+
+.normal-label {
+    font-weight: 300;
+}
+
+.m-t-1 {
+    margin-top: 10px;
+}
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .default-title h2 {
         font-size: 60px
