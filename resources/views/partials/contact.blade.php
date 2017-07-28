@@ -68,7 +68,7 @@
                                     <div class="form-group">
                                         <label class="normal-label" for="name">Nome</label>
                                         <input type="text" class="form-control" name="name" id="name"
-                                               placeholder="Seu nome" required>
+                                               placeholder="Seu nome">
                                     </div>
                                 </div>
                                 <!-- Single Input Area Start -->
@@ -76,7 +76,7 @@
                                     <div class="form-group">
                                         <label class="normal-label" for="email">E-mail</label>
                                         <input type="email" class="form-control" name="email" id="email"
-                                               placeholder="Seu melhor e-mail" required>
+                                               placeholder="Seu melhor e-mail">
                                     </div>
                                 </div>
                                 <!-- Single Input Area Start -->
@@ -84,7 +84,7 @@
                                     <div class="form-group">
                                         <label class="normal-label" for="subject">Assunto</label>
                                         <select class="form-control" name="subject" id="subject"
-                                                title="Selecione o assunto do seu e-mail" required>
+                                                title="Selecione o assunto do seu e-mail">
                                             <option>Pesquisa Restritiva Simples</option>
                                             <option>Pesquisa Restritiva Completa</option>
                                             <option>Serviços de Certidões</option>
@@ -96,7 +96,7 @@
                                     <div class="form-group">
                                         <label class="normal-label" for="number">Telefone</label>
                                         <input type="text" class="form-control phone" name="number" id="number"
-                                               placeholder="Seu telefone" required>
+                                               placeholder="Seu telefone">
                                     </div>
                                 </div>
                                 <!-- Single Input Area Start -->
@@ -104,8 +104,7 @@
                                     <div class="form-group">
                                         <label class="normal-label" for="message">Mensagem</label>
                                         <textarea name="message" class="form-control" id="message" cols="30" rows="10"
-                                                  placeholder="Escreva o que você deseja nos perguntar"
-                                                  required></textarea>
+                                                  placeholder="Escreva o que você deseja nos perguntar"></textarea>
                                     </div>
                                 </div>
                                 <!-- Single Input Area Start -->
