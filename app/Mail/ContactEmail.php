@@ -35,8 +35,8 @@ class ContactEmail extends Mailable
             ->with([
                 'name' => $this->values['name'],
                 'email' => $this->values['email'],
-                'cel' => $this->values['cel'],
-                'msg' => $this->values['msg'],
+                'cel' => $this->values['number'],
+                'msg' => $this->values['message'],
             ]);
     }
 }
