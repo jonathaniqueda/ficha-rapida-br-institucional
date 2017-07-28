@@ -58,7 +58,7 @@
                 </div>
                 <div class="line"></div>
                 <div class="contact_from">
-                    <form action="{{route('send_email')}}" class="send-email" method="POST">
+                    <form action="{{route('send_email')}}" class="send-email" method="POST" id="contact-form">
                         <!-- Message Input Area Start -->
                         <div class="contact_input_area">
                             <div id="success_fail_info"></div>

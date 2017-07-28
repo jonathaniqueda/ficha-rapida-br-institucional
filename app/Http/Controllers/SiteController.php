@@ -26,6 +26,6 @@ class SiteController extends Controller
             ->cc('jonathaniqueda@me.com')
             ->send(new ContactEmail($all));
 
-        return RequestMessage::success(['msg' => 'sua mensagem foi enviada com sucesso!']);
+        return RequestMessage::success(['msg' => 'Mensagem foi enviada com sucesso']);
     }
 }
