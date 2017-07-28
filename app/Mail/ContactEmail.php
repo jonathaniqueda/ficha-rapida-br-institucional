@@ -31,7 +31,7 @@ class ContactEmail extends Mailable
     public function build()
     {
         return $this->view('email.contact')
-            ->subject('seugu.ru, você tem uma nova mensagem de contato')
+            ->subject($this->values['subject'])
             ->with([
                 'name' => $this->values['name'],
                 'email' => $this->values['email'],
