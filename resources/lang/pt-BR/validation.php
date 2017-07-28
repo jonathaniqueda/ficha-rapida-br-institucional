@@ -65,7 +65,7 @@ return [
     'numeric'              => ':attribute deve ser um número.',
     'present'              => 'O :attribute deve estar presente.',
     'regex'                => 'O formato de :attribute é inválido.',
-    'required'             => 'campo obrigatório.',
+    'required'             => 'Campo obrigatório.',
     'required_if'          => 'O campo :attribute é obrigatório quando :other é :value.',
     'required_unless'      => 'O :attribute é necessário a menos que :other esteja em :values.',
     'required_with'        => 'O campo :attribute é obrigatório quando :values está presente.',
