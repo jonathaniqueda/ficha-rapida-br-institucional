@@ -22,7 +22,7 @@ class SiteController extends Controller
     {
         $all = $request->all();
 
-        \Mail::to('contato@seuguru.digital')
+        \Mail::to('contato@ficharapidabr.com.br')
             ->cc('jonathaniqueda@me.com')
             ->send(new ContactEmail($all));
 
