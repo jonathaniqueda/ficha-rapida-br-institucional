@@ -13,7 +13,7 @@
             <div class="row">
                 <div class="col-xs-12">
                     <div class="footer_bottom">
-                        <p>Feito com <i class="fa fa-heart"></i> por
+                        <p>feito com <i class="fa fa-heart"></i> por
                             <a href="https://seugu.ru/" target="_blank">seuguru.digital</a>
                         </p>
                     </div>
