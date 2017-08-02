@@ -22,7 +22,8 @@
                                     <li><a href="#sobre-nos">Sobre Nós</a></li>
                                     <li><a href="#servicos">Serviços</a></li>
                                     <li><a href="#precos">Preços</a></li>
-                                    <li><a href="#clientes">Clientes</a></li>
+                                    <li><a href="#formularios">Formulários</a></li>
+                                    {{--<li><a href="{{route('blog.index')}}">Blog</a></li>--}}
                                     <li><a href="#contato">Contato</a></li>
                                 </ul>
                             </nav>
@@ -53,7 +54,8 @@
         <li><a href="#sobre-nos">Sobre Nós</a></li>
         <li><a href="#servicos">Serviços</a></li>
         <li><a href="#precos">Preços</a></li>
-        <li><a href="#clientes">Clientes</a></li>
+        <li><a href="#formularios">Formulários</a></li>
+        {{--<li><a href="{{route('blog.index')}}">Blog</a></li>--}}
         <li><a href="#contato">Contato</a></li>
     </ul>
     <!-- Sidebar Contact Area Start -->
@@ -102,7 +104,8 @@
                     </p>
                 </div>
                 <div class="col-xs-12">
-                    <a data-scrollto="sobre-nos" class="s-obj btn royal-btn" id="btn-one-1">Conheça a Ficha Rápida BR</a>
+                    <a data-scrollto="sobre-nos" class="s-obj btn royal-btn" id="btn-one-1">Conheça a Ficha Rápida
+                        BR</a>
                 </div>
             </div>
         </div>

@@ -12,7 +12,7 @@
                         produtivo, criará condições de proteção contra fraudes e aumentará a segurança na sua tomada de
                         decisão e o melhor, tudo isso, pelo menor <strong>CUSTO x BENEFÍCIO</strong>. Pesquisas
                         realizadas demonstram que Administradores de Imóveis que fazem uma análise criteriosa dos
-                        pretendentes a Locação e do Fiador antes de aluga, reduzem em 95%o risco de <strong>INADIMPLÊNCIA</strong>
+                        pretendentes a Locação e do Fiador antes de alugar, reduzem em 95%o risco de <strong>INADIMPLÊNCIA</strong>
                         nos aluguéis.
                     </p>
                     <p>

@@ -1,5 +1,5 @@
 <!-- >>>>>>>>>>>>>>>> Price and Plans Area Start <<<<<<<<<<<<<<<< -->
-<div class="price_plan_area bg-gray section_padding_100_70" id="precos">
+<div class="price_plan_area section_padding_100_70" id="precos">
     <div class="container">
         <div class="row">
             <div class="col-xs-12">

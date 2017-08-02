@@ -12,5 +12,6 @@
     {{--    @include('partials.testimonial')--}}
     @include('partials.partners')
     {{--@include('partials.cta2')--}}
+    @include('partials.forms')
     @include('partials.contact')
 @endsection

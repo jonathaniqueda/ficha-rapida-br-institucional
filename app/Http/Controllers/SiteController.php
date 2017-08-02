@@ -28,4 +28,15 @@ class SiteController extends Controller
 
         return RequestMessage::success(['msg' => 'Mensagem foi enviada com sucesso']);
     }
+
+    public function forms($type)
+    {
+        $file = public_path('forms/' . $type . '.doc');
+
+        if (!\File::exists($file)) {
+            abort(404);
+        }
+
+        return response()->download($file);
+    }
 }

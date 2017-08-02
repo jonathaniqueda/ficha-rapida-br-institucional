@@ -6,22 +6,22 @@
             <div class="col-xs-12">
                 <!-- Single Cool Facts area Start -->
                 <div class="cool_fact_text">
-                    <h2><span class="counter">5</span>+</h2>
+                    <h2><span class="counter">10</span>+</h2>
                     <p>Anos de Experiência</p>
                 </div>
                 <!-- Single Cool Facts area Start -->
                 <div class="cool_fact_text">
-                    <h2><span class="counter">30</span>+</h2>
+                    <h2><span class="counter">99</span>+</h2>
                     <p>Clientes Fidelizados e Felizes</p>
                 </div>
                 <!-- Single Cool Facts area Start -->
                 <div class="cool_fact_text">
-                    <h2><span class="counter">75</span>+</h2>
+                    <h2><span class="counter">1500</span>+</h2>
                     <p>Serviços de Certidões Realizado</p>
                 </div>
                 <!-- Single Cool Facts area Start -->
                 <div class="cool_fact_text">
-                    <h2><span class="counter">330</span>+</h2>
+                    <h2><span class="counter">22500</span>+</h2>
                     <p>Pesquisas Realizadas</p>
                 </div>
             </div>

@@ -41,11 +41,11 @@
             <div class="col-xs-12 col-sm-4">
                 <div class="single_feature item">
                     <div class="feature_img">
-                        <img src="{{asset('img/icon-2.png')}}" alt="Atedimento personalizado">
+                        <img src="{{asset('img/icon-2.png')}}" alt="Atendimento personalizado">
                     </div>
                     <!-- Single Feature Image Area End -->
                     <div class="feature_text">
-                        <h4>Atedimento personalizado</h4>
+                        <h4>Atendimento personalizado</h4>
                         <p>
                             Atendemos via telefone, whatsapp, e-mail e fisicamente, de acordo com sua agenda :)
                         </p>

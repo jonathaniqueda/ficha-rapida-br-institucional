@@ -1,5 +1,5 @@
 <!-- >>>>>>>>>>>>>>>> Partner Area Start <<<<<<<<<<<<<<<< -->
-<div class="section_padding_100_70" id="clientes">
+<div class="section_padding_100_70 bg-gray" id="clientes">
     <div class="container">
         <div class="row">
             <div class="col-xs-12">

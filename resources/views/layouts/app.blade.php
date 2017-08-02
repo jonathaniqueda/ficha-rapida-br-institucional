@@ -6,6 +6,8 @@
 
     <title>Ficha Rápida BR - Sua Segurança na Hora de ALUGAR, CONTRATAR ou VENDER!</title>
 
+    <meta name="google-site-verification" content="aCkUhs7qJlYZsv8La4j3lBFOtjueyXCkdpanyRU8iFk"/>
+
     <meta name="author" content="jonathan iqueda, jonathaniqueda@me.com">
 
     <meta name="description"
