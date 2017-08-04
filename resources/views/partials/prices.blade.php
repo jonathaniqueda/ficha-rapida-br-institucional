@@ -12,13 +12,13 @@
 
         <div class="row">
             <!-- Single Price Plan Area Start -->
-            <div class="col-xs-12 col-sm-4">
+            <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
                         <h2>R$ 40,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
-                        <p>Pesquisa Restritiva Simples</p>
+                        <p>Tipo: Pesquisa Restritiva Simples</p>
                     </div>
                     <div class="buy_now">
                         <a data-scrollto="contato" class="btn royal-btn">Entrar em Contato</a>
@@ -27,13 +27,13 @@
             </div>
 
             <!-- Single Price Plan Area Start -->
-            <div class="col-xs-12 col-sm-4">
+            <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan active wow fadeInUp">
                     <div class="price">
                         <h2>R$ 55,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
-                        <p>Pesquisa Restritiva Completa</p>
+                        <p>Tipo: Pesquisa Completa</p>
                     </div>
                     <div class="buy_now">
                         <a data-scrollto="contato" class="btn royal-btn">Entrar em Contato</a>
@@ -42,7 +42,22 @@
             </div>
 
             <!-- Single Price Plan Area Start -->
-            <div class="col-xs-12 col-sm-4">
+            <div class="col-xs-12 col-sm-6">
+                <div class="single_price_plan wow fadeInUp">
+                    <div class="price">
+                        <h2>R$ 60,00 <span>Por Pesquisa</span></h2>
+                    </div>
+                    <div class="description">
+                        <p>Tipo: Pesquisa de pessoa jurídica</p>
+                    </div>
+                    <div class="buy_now">
+                        <a data-scrollto="contato" class="btn royal-btn">Entrar em Contato</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Price Plan Area Start -->
+            <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
                         <h2>À consultar <span>Para serviço de certidões</span></h2>

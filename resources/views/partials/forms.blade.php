@@ -41,7 +41,7 @@
             <div class="col-xs-12 col-sm-4">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
-                        <h2>Pesquisa restritiva para pessoa jurídica</h2>
+                        <h2>Pesquisa pessoa jurídica</h2>
                     </div>
                     <div class="buy_now">
                         <a href="{{route('forms', ['type' => 'pesquisa-restritiva-pessoa-juridica'])}}" target="_blank" class="btn royal-btn">
