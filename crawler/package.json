@@ -1,0 +1,14 @@
+{
+  "name": "node-web-scrape",
+  "version": "0.0.1",
+  "description": "Crawler.",
+  "main": "server.js",
+  "author": "Jonathan Iqueda",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "iconv-lite": "^0.4.18",
+    "mongodb": "^2.2.31",
+    "request": "latest"
+  }
+}
