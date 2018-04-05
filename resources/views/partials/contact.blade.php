@@ -39,7 +39,7 @@
 
                         <p>
                             <i class="fa fa-map-marker" aria-hidden="true"></i>
-                            Rua Bárbara Heliodora, 1637 - Jardim Sulacap - Rio de Janeiro / RJ
+                            Av. Das Américas - Recreio dos Bandeirantes - Rio de Janeiro / RJ
                         </p>
                     </div>
                     <div class="social_links_area">
