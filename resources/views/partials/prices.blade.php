@@ -15,7 +15,7 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
-                        <h2>R$ 40,00 <span>Por Pesquisa</span></h2>
+                        <h2>R$ 50,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
                         <p>Tipo: Pesquisa Restritiva Simples</p>
@@ -30,7 +30,7 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan active wow fadeInUp">
                     <div class="price">
-                        <h2>R$ 55,00 <span>Por Pesquisa</span></h2>
+                        <h2>R$ 70,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
                         <p>Tipo: Pesquisa Completa</p>
@@ -45,7 +45,7 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
-                        <h2>R$ 60,00 <span>Por Pesquisa</span></h2>
+                        <h2>R$ 80,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
                         <p>Tipo: Pesquisa de pessoa jurídica</p>
