@@ -63,7 +63,7 @@
 
 @include('layouts.footer')
 
-<script src="https://maps.googleapis.com/maps/api/js?key={{getenv('GOOGLE_API_KEY')}}" type="text/javascript"></script>
+{{--<script src="https://maps.googleapis.com/maps/api/js?key={{getenv('GOOGLE_API_KEY')}}" type="text/javascript"></script>--}}
 <script type="text/javascript" src="{{ elixir('/js/app.js') }}"></script>
 </body>
 </html>
