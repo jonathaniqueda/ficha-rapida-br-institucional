@@ -39,7 +39,7 @@
 
                         <p>
                             <i class="fa fa-map-marker" aria-hidden="true"></i>
-                            Av. Das Américas - Recreio dos Bandeirantes - Rio de Janeiro / RJ
+                            Vila Valqueire - Rio de Janeiro / RJ
                         </p>
                     </div>
                     <div class="social_links_area">
@@ -85,9 +85,12 @@
                                         <label class="normal-label" for="subject">Assunto</label>
                                         <select class="form-control" name="subject" id="subject"
                                                 title="Selecione o assunto do seu e-mail">
-                                            <option>Pesquisa Restritiva Simples</option>
-                                            <option>Pesquisa Restritiva Completa</option>
+                                            <option>Pesquisa Simples (mini-ficha)</option>
+                                            <option>Pesquisa Completa</option>
+                                            <option>Pesquisa Pessoa Jurídica</option>
+                                            <option>Pesquisa Funcional (RH)</option>
                                             <option>Serviços de Certidões</option>
+                                            <option>Outros serviços creditícios</option>
                                         </select>
                                     </div>
                                 </div>

@@ -18,7 +18,7 @@
                         <h2>Pesquisa restritiva do fiador</h2>
                     </div>
                     <div class="buy_now">
-                        <a href="{{route('forms', ['type' => 'pesquisa-restritiva-fiador'])}}" target="_blank" class="btn royal-btn">
+                        <a href="{{route('forms', ['type' => 'pesquisa-fiador'])}}" target="_blank" class="btn royal-btn">
                             Fazer Download
                         </a>
                     </div>
@@ -31,27 +31,40 @@
                         <h2>Pesquisa restritiva do locatário</h2>
                     </div>
                     <div class="buy_now">
-                        <a href="{{route('forms', ['type' => 'pesquisa-restritiva-locatario'])}}" target="_blank" class="btn royal-btn">
+                        <a href="{{route('forms', ['type' => 'pesquisa-locatario'])}}" target="_blank" class="btn royal-btn">
                             Fazer Download
                         </a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-xs-12 col-sm-4">
+            <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
                         <h2>Pesquisa pessoa jurídica</h2>
                     </div>
                     <div class="buy_now">
-                        <a href="{{route('forms', ['type' => 'pesquisa-restritiva-pessoa-juridica'])}}" target="_blank" class="btn royal-btn">
+                        <a href="{{route('forms', ['type' => 'pesquisa-pessoa-juridica'])}}" target="_blank" class="btn royal-btn">
                             Fazer Download
                         </a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-xs-12 col-sm-4">
+            <div class="col-xs-12 col-sm-6">
+                <div class="single_price_plan wow fadeInUp">
+                    <div class="price">
+                        <h2>Pesquisa funcional (RH)</h2>
+                    </div>
+                    <div class="buy_now">
+                        <a href="{{route('forms', ['type' => 'pesquisa-funcional-rh'])}}" target="_blank" class="btn royal-btn">
+                            Fazer Download
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
                         <h2>Informações do Fiador</h2>
@@ -64,7 +77,7 @@
                 </div>
             </div>
 
-            <div class="col-xs-12 col-sm-4">
+            <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
                         <h2>Informações do Locatário</h2>

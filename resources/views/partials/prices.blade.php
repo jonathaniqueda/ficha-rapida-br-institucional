@@ -60,6 +60,21 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
+                        <h2>R$ 75,00 <span>Por Pesquisa</span></h2>
+                    </div>
+                    <div class="description">
+                        <p>Tipo: Pesquisa Funcional - Admissão de funcionários</p>
+                    </div>
+                    <div class="buy_now">
+                        <a data-scrollto="contato" class="btn royal-btn">Entrar em Contato</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Price Plan Area Start -->
+            <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+                <div class="single_price_plan wow fadeInUp">
+                    <div class="price">
                         <h2>À consultar <span>Para serviço de certidões</span></h2>
                     </div>
                     <div class="description">
