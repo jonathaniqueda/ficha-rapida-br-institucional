@@ -17,17 +17,14 @@
             <div class="col-xs-12">
                 <!-- Partner Slides Start -->
                 <div class="partner_slides">
-                    <img src="{{asset('img/parceiros/am-imobiliaria.png')}}"
-                         alt="A.M Assessoria Imobiliária">
-                    <img src="{{asset('img/parceiros/cavendish-negocios-imobiliarios.png')}}"
-                         alt="Cavendish Negócios Imobiliários">
-                    <img src="{{asset('img/parceiros/edificio-torre-do-meier.png')}}"
-                         alt="Edifício Torre do Méier">
-                    <img src="{{asset('img/parceiros/g-t.png')}}" alt="G&T Construtora">
-                    <img src="{{asset('img/parceiros/portela-imoveis.png')}}" alt="Portela Imóveis">
-                    <img src="{{asset('img/parceiros/royal-e-castro-imoveis.png')}}"
-                         alt="Rayol & Castro Imóveis">
-                    <img src="{{asset('img/parceiros/skina-imobiliaria.png')}}" alt="Skina Imobiliária">
+                    <h4 class="shared text-center" style="padding-top: 20px;">Grupo Canano Imobiliária</h4>
+                    <h4 class="shared text-center" style="padding-top: 20px;">A.M Assessoria Imobiliária</h4>
+                    <h4 class="shared text-center">Cavendish Negócios Imobiliários</h4>
+                    <h4 class="shared text-center" style="padding-top: 20px;">Edifício Torre do Méier</h4>
+                    <h4 class="shared text-center" style="padding-top: 30px;">G&T Construtora</h4>
+                    <h4 class="shared text-center" style="padding-top: 30px;">Portela Imóveis</h4>
+                    <h4 class="shared text-center" style="padding-top: 20px;">Rayol & Castro Imóveis</h4>
+                    <h4 class="shared text-center" style="padding-top: 30px;">Skina Imobiliária</h4>
                 </div>
             </div>
         </div>

@@ -56,3 +56,19 @@
 .m-t-1 {
     margin-top: 10px;
 }
+
+.shared {
+    color: #6e6e6e;
+    border: 1px solid #6e6e6e;
+    padding: 5px 5px 5px 8px;
+    font-size: 20px;
+    border-radius: 15px;
+    text-transform: capitalize;
+    margin-right: 3px;
+    height: 90px;
+}
+
+/*.slide-title span.shared {*/
+/*color: #fff;*/
+/*border-color: #fff;*/
+/*}*/
