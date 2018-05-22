@@ -28,7 +28,7 @@
     <link rel="icon" href="{{asset('img/fav.png')}}">
 
     <script>
-        window.Laravel = {!! json_encode([
+      window.Laravel = {!! json_encode([
                 'csrfToken' => csrf_token()
             ]) !!}
     </script>
@@ -63,7 +63,7 @@
 
 @include('layouts.footer')
 
-{{--<script src="https://maps.googleapis.com/maps/api/js?key={{getenv('GOOGLE_API_KEY')}}" type="text/javascript"></script>--}}
+<script src="http://maps.google.com/maps/api/js?key=AIzaSyBXmfyX5l6RZwySTOZrpbaCK38KhbnIYK4&sensor=false"></script>
 <script type="text/javascript" src="{{ elixir('/js/app.js') }}"></script>
 </body>
 </html>

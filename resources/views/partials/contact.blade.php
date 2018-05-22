@@ -39,12 +39,11 @@
 
                         <p>
                             <i class="fa fa-map-marker" aria-hidden="true"></i>
-                            Vila Valqueire - Rio de Janeiro / RJ
+                            Rua Bárbara Heliodora, 1637 - Sala 1 - Jardim Sulacap - Rio de Janeiro / RJ
                         </p>
                     </div>
                     <div class="social_links_area">
-                        <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                        <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                        <a href="https://www.facebook.com/ficharapida.br" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>

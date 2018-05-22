@@ -24,7 +24,7 @@ elixir(mix => {
     'resources/assets/js/jquery-ui.min.js',
     'resources/assets/js/plugins.js',
     'resources/assets/js/jquery-jarallax.min.js',
-    // 'resources/assets/js/map-active.js',
+    'resources/assets/js/map-active.js',
     'resources/assets/js/active.js',
     'resources/assets/js/sweetalert.min.js',
     'resources/assets/js/app.js'

@@ -1,8 +1,8 @@
 <!-- >>>>>>>>>>>>>>>> Map Area Start <<<<<<<<<<<<<<<< -->
-{{--<div class="map_contact_address_area">--}}
-<!-- Map Area Start -->
-{{--<div class="map_area" id="googleMap"></div>--}}
-{{--</div>--}}
+<div class="map_contact_address_area">
+    <!-- Map Area Start -->
+    <div class="map_area" id="googleMap"></div>
+</div>
 <!-- >>>>>>>>>>>>>>>> Map Area End <<<<<<<<<<<<<<<< -->
 
 <!-- >>>>>>>>>>>>>>>> Footer Area Start <<<<<<<<<<<<<<<< -->
