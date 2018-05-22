@@ -63,7 +63,7 @@
 
 @include('layouts.footer')
 
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyBXmfyX5l6RZwySTOZrpbaCK38KhbnIYK4&sensor=false"></script>
+<script src="https://maps.google.com/maps/api/js?key=AIzaSyBXmfyX5l6RZwySTOZrpbaCK38KhbnIYK4&sensor=false"></script>
 <script type="text/javascript" src="{{ elixir('/js/app.js') }}"></script>
 </body>
 </html>
