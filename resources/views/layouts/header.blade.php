@@ -19,11 +19,11 @@
                             <nav>
                                 <ul id="nav">
                                     <li class="current_page_item"><a href="#inicio">Início</a></li>
+                                    <li><a href="https://blog.ficharapidabr.com.br">Blog</a></li>
                                     <li><a href="#sobre-nos">Sobre Nós</a></li>
                                     <li><a href="#servicos">Serviços</a></li>
                                     <li><a href="#precos">Preços</a></li>
                                     <li><a href="#formularios">Formulários</a></li>
-                                    {{--<li><a href="{{route('blog.index')}}">Blog</a></li>--}}
                                     <li><a href="#contato">Contato</a></li>
                                 </ul>
                             </nav>
@@ -51,11 +51,11 @@
     <!-- Side Menu Area Start -->
     <ul id="nav" class="side_menu">
         <li class="current_page_item"><a href="#inicio">Início</a></li>
+        <li><a href="https://blog.ficharapidabr.com.br">Blog</a></li>
         <li><a href="#sobre-nos">Sobre Nós</a></li>
         <li><a href="#servicos">Serviços</a></li>
         <li><a href="#precos">Preços</a></li>
         <li><a href="#formularios">Formulários</a></li>
-        {{--<li><a href="{{route('blog.index')}}">Blog</a></li>--}}
         <li><a href="#contato">Contato</a></li>
     </ul>
     <!-- Sidebar Contact Area Start -->
