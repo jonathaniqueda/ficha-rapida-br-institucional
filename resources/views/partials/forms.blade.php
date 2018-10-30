@@ -15,6 +15,32 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
+                        <h2>Pesquisa Completa Fiador</h2>
+                    </div>
+                    <div class="buy_now">
+                        <a href="{{route('forms', ['type' => 'ficha-cadastral-fiador'])}}" target="_blank" class="btn royal-btn">
+                            Fazer Download
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-6">
+                <div class="single_price_plan wow fadeInUp">
+                    <div class="price">
+                        <h2>Pesquisa Completa Locatário</h2>
+                    </div>
+                    <div class="buy_now">
+                        <a href="{{route('forms', ['type' => 'ficha-cadastral-locatario'])}}" target="_blank" class="btn royal-btn">
+                            Fazer Download
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-6">
+                <div class="single_price_plan wow fadeInUp">
+                    <div class="price">
                         <h2>Pesquisa restritiva do fiador</h2>
                     </div>
                     <div class="buy_now">
@@ -58,32 +84,6 @@
                     </div>
                     <div class="buy_now">
                         <a href="{{route('forms', ['type' => 'pesquisa-funcional-rh'])}}" target="_blank" class="btn royal-btn">
-                            Fazer Download
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-xs-12 col-sm-6">
-                <div class="single_price_plan wow fadeInUp">
-                    <div class="price">
-                        <h2>Informações do Fiador</h2>
-                    </div>
-                    <div class="buy_now">
-                        <a href="{{route('forms', ['type' => 'ficha-cadastral-fiador'])}}" target="_blank" class="btn royal-btn">
-                            Fazer Download
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-xs-12 col-sm-6">
-                <div class="single_price_plan wow fadeInUp">
-                    <div class="price">
-                        <h2>Informações do Locatário</h2>
-                    </div>
-                    <div class="buy_now">
-                        <a href="{{route('forms', ['type' => 'ficha-cadastral-locatario'])}}" target="_blank" class="btn royal-btn">
                             Fazer Download
                         </a>
                     </div>
