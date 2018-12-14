@@ -61,7 +61,7 @@
     <!-- Sidebar Contact Area Start -->
     <div class="single_contact_area">
         <div class="line"></div>
-        <p><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:21-3486-0342">(+55) 21 3486-0342</a></p>
+        <p><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:21-3357-9892">(+55) 21 3357-9892</a></p>
         <p><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:21-98284-1840">(+55) 21 98284-1840</a></p>
         <p><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:21-96443-1983">(+55) 21 96443-1983</a></p>
         <p>
