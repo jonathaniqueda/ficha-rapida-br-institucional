@@ -39,7 +39,12 @@
 
                         <p>
                             <i class="fa fa-map-marker" aria-hidden="true"></i>
-                            Rua Bárbara Heliodora, 1637 - Sala 1 - Jardim Sulacap - Rio de Janeiro / RJ
+                            <strong>Matriz:</strong> Rua Bárbara Heliodora, 1637 - Sala 1 - Jardim Sulacap - Rio de Janeiro / RJ
+                        </p>
+
+                        <p>
+                            <i class="fa fa-map-marker" aria-hidden="true"></i>
+                            <strong>Unidade Recreio:</strong> Estrada Benvindo de Novaes, 927 - Recreio dos Bandeirantes - Rio de Janeiro / RJ
                         </p>
                     </div>
                     <div class="social_links_area">
