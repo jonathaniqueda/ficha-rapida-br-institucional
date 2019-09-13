@@ -39,7 +39,7 @@
 
                         <p>
                             <i class="fa fa-map-marker" aria-hidden="true"></i>
-                            <strong>Matriz:</strong> Rua Bárbara Heliodora, 1637 - Sala 1 - Jardim Sulacap - Rio de Janeiro / RJ
+                            <strong>Matriz:</strong> RUA ALVARO ALVIM, 48 - SALA 515 - CENTRO - RIO DE JANEIRO - RJ - 20031-010
                         </p>
 
                         <p>
