@@ -15,10 +15,10 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
-                        <h2>R$ 50,00 <span>Por Pesquisa</span></h2>
+                        <h2>R$ 70,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
-                        <p>Tipo: Pesquisa Restritiva Simples</p>
+                        <p>Tipo: Pesquisa Restritiva Simples <br/> Resposta em 24 horas</p>
                     </div>
                     <div class="buy_now">
                         <a data-scrollto="contato" class="btn royal-btn">Entrar em Contato</a>
@@ -30,10 +30,10 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan active wow fadeInUp">
                     <div class="price">
-                        <h2>R$ 70,00 <span>Por Pesquisa</span></h2>
+                        <h2>R$ 90,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
-                        <p>Tipo: Pesquisa Completa</p>
+                        <p>Tipo: Pesquisa Restritiva Simples Expressa <br/> <strong>Resposta em 2 horas</strong></p>
                     </div>
                     <div class="buy_now">
                         <a data-scrollto="contato" class="btn royal-btn">Entrar em Contato</a>
@@ -45,10 +45,25 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
-                        <h2>R$ 80,00 <span>Por Pesquisa</span></h2>
+                        <h2>R$ 90,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
-                        <p>Tipo: Pesquisa de pessoa jurídica</p>
+                        <p>Tipo: Pesquisa Completa <br/> Resposta em 24 horas</p>
+                    </div>
+                    <div class="buy_now">
+                        <a data-scrollto="contato" class="btn royal-btn">Entrar em Contato</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Price Plan Area Start -->
+            <div class="col-xs-12 col-sm-6">
+                <div class="single_price_plan active wow fadeInUp">
+                    <div class="price">
+                        <h2>R$ 120,00 <span>Por Pesquisa</span></h2>
+                    </div>
+                    <div class="description">
+                        <p>Tipo: Pesquisa Completa Expressa <br/> <strong>Resposta em 2 horas</strong></p>
                     </div>
                     <div class="buy_now">
                         <a data-scrollto="contato" class="btn royal-btn">Entrar em Contato</a>
@@ -60,10 +75,55 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
-                        <h2>R$ 75,00 <span>Por Pesquisa</span></h2>
+                        <h2>R$ 100,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
-                        <p>Tipo: Pesquisa Funcional - Admissão de funcionários</p>
+                        <p>Tipo: Pesquisa de Pessoa Jurídica <br/> Resposta em 24 horas</p>
+                    </div>
+                    <div class="buy_now">
+                        <a data-scrollto="contato" class="btn royal-btn">Entrar em Contato</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Price Plan Area Start -->
+            <div class="col-xs-12 col-sm-6">
+                <div class="single_price_plan active wow fadeInUp">
+                    <div class="price">
+                        <h2>R$ 130,00 <span>Por Pesquisa</span></h2>
+                    </div>
+                    <div class="description">
+                        <p>Tipo: Pesquisa de Pessoa Jurídica Expressa <br/> <strong>Resposta em 2 horas</strong></p>
+                    </div>
+                    <div class="buy_now">
+                        <a data-scrollto="contato" class="btn royal-btn">Entrar em Contato</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Price Plan Area Start -->
+            <div class="col-xs-12 col-sm-6">
+                <div class="single_price_plan wow fadeInUp">
+                    <div class="price">
+                        <h2>R$ 100,00 <span>Por Pesquisa</span></h2>
+                    </div>
+                    <div class="description">
+                        <p>Tipo: Pesquisa Funcional - Admissão de funcionários <br/> Resposta em 24 horas</p>
+                    </div>
+                    <div class="buy_now">
+                        <a data-scrollto="contato" class="btn royal-btn">Entrar em Contato</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Price Plan Area Start -->
+            <div class="col-xs-12 col-sm-6">
+                <div class="single_price_plan active wow fadeInUp">
+                    <div class="price">
+                        <h2>R$ 120,00 <span>Por Pesquisa</span></h2>
+                    </div>
+                    <div class="description">
+                        <p>Tipo: Pesquisa Funcional - Admissão de funcionários Expressa <br/> <strong>Resposta em 2 horas</strong></p>
                     </div>
                     <div class="buy_now">
                         <a data-scrollto="contato" class="btn royal-btn">Entrar em Contato</a>

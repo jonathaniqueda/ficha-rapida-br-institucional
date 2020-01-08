@@ -1,5 +1,5 @@
 var map;
-var latlng = new google.maps.LatLng(-22.888735, -43.391782);
+var latlng = new google.maps.LatLng(-22.374640, -42.983860);
 var stylez = [{
     featureType: "all",
     elementType: "all",
@@ -19,7 +19,7 @@ var mapOptions = {
 };
 map = new google.maps.Map(document.getElementById("googleMap"), mapOptions);
 var geocoder_map = new google.maps.Geocoder();
-var address = 'Rua Bárbara Heliodora, 1637 - Rio de Janeiro';
+var address = 'Rua Alvaro Alvim, 48 - Rio de Janeiro';
 geocoder_map.geocode({
     'address': address
 }, function (results, status) {
