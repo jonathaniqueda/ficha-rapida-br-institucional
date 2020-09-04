@@ -8,7 +8,7 @@
     "cheerio": "latest",
     "express": "latest",
     "iconv-lite": "^0.4.18",
-    "mongodb": "^2.2.31",
+    "mongodb": "^3.6.1",
     "request": "latest"
   }
 }
