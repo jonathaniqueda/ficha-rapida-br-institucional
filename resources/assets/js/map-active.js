@@ -19,7 +19,7 @@ var mapOptions = {
 };
 map = new google.maps.Map(document.getElementById("googleMap"), mapOptions);
 var geocoder_map = new google.maps.Geocoder();
-var address = 'Rua Alvaro Alvim, 48 - Rio de Janeiro';
+var address = 'AV. JULIO DE SA BIERRENBACH (ALM) 0065 BLOCO 02 - SL 301 - BARRA DA TIJUCA';
 geocoder_map.geocode({
     'address': address
 }, function (results, status) {

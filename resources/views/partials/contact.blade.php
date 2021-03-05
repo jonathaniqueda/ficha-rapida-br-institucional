@@ -39,7 +39,7 @@
 
                         <p>
                             <i class="fa fa-map-marker" aria-hidden="true"></i>
-                            <strong>Matriz:</strong> RUA ALVARO ALVIM, 48 - SALA 515 - CENTRO - RIO DE JANEIRO - RJ - 20031-010
+                            <strong>Matriz:</strong> AV. JULIO DE SA BIERRENBACH (ALM) 0065 BLOCO 02 - SL 301 - BARRA DA TIJUCA
                         </p>
 
                         <p>
