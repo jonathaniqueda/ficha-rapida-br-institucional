@@ -15,7 +15,7 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
-                        <h2>R$ 70,00 <span>Por Pesquisa</span></h2>
+                        <h2>R$ 80,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
                         <p>Tipo: Pesquisa Restritiva Simples <br/> Resposta em 24 horas</p>
@@ -30,7 +30,7 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan active wow fadeInUp">
                     <div class="price">
-                        <h2>R$ 90,00 <span>Por Pesquisa</span></h2>
+                        <h2>R$ 100,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
                         <p>Tipo: Pesquisa Restritiva Simples Expressa <br/> <strong>Resposta em 2 horas</strong></p>
@@ -45,7 +45,7 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
-                        <h2>R$ 90,00 <span>Por Pesquisa</span></h2>
+                        <h2>R$ 100,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
                         <p>Tipo: Pesquisa Completa <br/> Resposta em 24 horas</p>
@@ -60,7 +60,7 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan active wow fadeInUp">
                     <div class="price">
-                        <h2>R$ 120,00 <span>Por Pesquisa</span></h2>
+                        <h2>R$ 150,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
                         <p>Tipo: Pesquisa Completa Expressa <br/> <strong>Resposta em 2 horas</strong></p>
@@ -75,7 +75,7 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
-                        <h2>R$ 100,00 <span>Por Pesquisa</span></h2>
+                        <h2>R$ 110,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
                         <p>Tipo: Pesquisa de Pessoa Jurídica <br/> Resposta em 24 horas</p>
@@ -90,7 +90,7 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan active wow fadeInUp">
                     <div class="price">
-                        <h2>R$ 130,00 <span>Por Pesquisa</span></h2>
+                        <h2>R$ 180,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
                         <p>Tipo: Pesquisa de Pessoa Jurídica Expressa <br/> <strong>Resposta em 2 horas</strong></p>
@@ -105,7 +105,7 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan wow fadeInUp">
                     <div class="price">
-                        <h2>R$ 100,00 <span>Por Pesquisa</span></h2>
+                        <h2>R$ 130,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
                         <p>Tipo: Pesquisa Funcional - Admissão de funcionários <br/> Resposta em 24 horas</p>
@@ -120,7 +120,7 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="single_price_plan active wow fadeInUp">
                     <div class="price">
-                        <h2>R$ 120,00 <span>Por Pesquisa</span></h2>
+                        <h2>R$ 180,00 <span>Por Pesquisa</span></h2>
                     </div>
                     <div class="description">
                         <p>Tipo: Pesquisa Funcional - Admissão de funcionários Expressa <br/> <strong>Resposta em 2 horas</strong></p>
